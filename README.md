@@ -1,6 +1,6 @@
 # 👋 Hello there! I'm Afia Raisa
 
-💻 Passionate about programming | Future mobile app developer  
+💻 Passionate about programming | Flutter mobile app developer  
 🎯 Currently diving into **Flutter** and the world of mobile apps  
 🧠 Solid foundation in **C**, actively learning **SQL** and database design  
 ⚙️ Love solving problems, debugging, and experimenting with new tools  
