@@ -45,35 +45,7 @@ C --> E[Learning Phase];
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Raisa-01&theme=dark&hide_border=true&area=true&bg_color=000000&color=00D4FF&line=00FF87&point=FF6BFF)
 
 </div>
----
 
-## <div align="center">📶 Code Frequency</div>
-
-<div align="center">
-
-```python
-Dart        ██████████████████████████████ 85.2% 
-JavaScript  █████████████▍                18.3% 
-HTML        ███████▌                     7.5% 
-CSS         █████▎                       4.1% 
-Other       █                            0.9%
-```
-
-</div>
-
----
-
-## <div align="center">📡 Communication Array</div>
-
-<div align="center">
-
-[![Quantum Mail](https://img.shields.io/badge/QUANTUM_MAIL-00D4FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afia.raisa876@gmail.com)
-[![Code Repository](https://img.shields.io/badge/CODE_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raisa-01)
-[![Professional Network](https://img.shields.io/badge/PRO_NETWORK-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-
-</div>
-
----
 
 <div align="center">
 
