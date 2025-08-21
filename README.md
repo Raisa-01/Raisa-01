@@ -1,102 +1,86 @@
-<h1 align="center">👋 Hi, I'm Afia Raisa</h1>
+# <div align="center">🚀 Afia Raisa</div>
+<div align="center">
+  
+**Flutter Developer • Digital Architect • Future Innovator**
 
-<p align="center">
-  💻 Flutter Developer | 🎯 Full-Stack Explorer | 🌱 Lifelong Learner  
-  <br/>
-  📍 Based in Dhaka, Bangladesh | 🧠 Building real-world apps with purpose
-</p>
+![Cosmic Typing](https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=CREATING+TECHNOLOGY+WITH+VISION;DESIGNING+TOMORROW'S+SOLUTIONS+TODAY;WHERE+CODE+MEETS+COSMOS)
 
----
-
-## 🚀 About Me
-
-I'm a Computer Science student with a passion for building sleek, functional mobile and web applications. I thrive on debugging, problem-solving, and turning ideas into polished products. Whether it's configuring a Dart SDK or wiring up a backend with **Node.js + SQLite**, I learn by doing — and I build for impact.
-
-Currently, I'm developing a job portal app with full authentication, admin panel, and persistent storage — designed to help students and recruiters connect better.
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## <div align="center">🌌 Tech Universe</div>
 
-| 💻 Frontend | 📱 Mobile | ⚙️ Backend | 🗃️ Database | 🧰 Tools |
-|------------|-----------|------------|-------------|----------|
-| ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-| ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) | ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |  |  |  | ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) |
+<div align="center">
 
----
+| **Dimension** | **Technologies** |
+|:-------------:|:-----------------|
+| **🛰️ Mobile Realm** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) |
+| **🌐 Web Nexus** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| **⚡ Server Core** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) |
+| **💾 Data Matrix** | ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
+| **🔧 Dev Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
 
-## 🧠 Skills Summary
-
-- 🎨 **Frontend Development**  
-  Responsive, multi-page web apps using HTML, CSS, and JavaScript. I specialize in clean layouts, modern UI/UX, and interactive elements.
-
-- 📱 **Mobile App Development**  
-  Building high-performance apps with Flutter and Dart. From UI animations to backend integration, I focus on delivering smooth user experiences.
-
-- 🔧 **Backend Engineering**  
-  Developing RESTful APIs with Node.js and Express. Integrating SQLite for persistent data storage and testing endpoints with curl/Postman.
-
-- 🛠️ **Tooling & Workflow**  
-  Confident with Git, GitHub, and deployment pipelines. I debug across stacks, iterate fast, and adapt to new tools with ease.
-
-- 🧩 **Problem Solving & Debugging**  
-  I troubleshoot methodically, celebrate every fix, and learn through hands-on experimentation. I build for real users — and real results.
+</div>
 
 ---
 
-## 🌟 Featured Projects
+## <div align="center">📡 Digital Footprint</div>
 
-### 🛠️ PathStarter Job Portal  
-**Tech:** Flutter · Node.js · Express · SQLite  
-**Features:**  
-- 🔐 Authentication system (login/signup)  
-- 🧑‍💼 Admin panel for job management  
-- 📦 Persistent job listings with SQLite  
-- 🌐 Connected frontend forms to backend routes  
-**Status:** Actively testing and refining for KLK submission
+<div align="center">
 
-### 📱 Flutter UI Showcase  
-**Tech:** Flutter · Dart  
-**Highlights:**  
-- 🎨 Minimalist and animated mobile screens  
-- 📱 Inspired by Skillhunt and Indeed  
-- ⚡ Pixel-perfect layouts and responsive design
+```mermaid
+graph LR
+A[Code Energy] --> B(85% Flutter/Dart);
+A --> C(15% Web Tech);
+B --> D[Active Projects];
+C --> E[Learning Phase];
+```
+
+<br/>
+
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raisa-01&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=00D4FF&text_color=FFFFFF&icon_color=00FF87) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Raisa-01&theme=dark&hide_border=true&background=000000&stroke=00D4FF&ring=00FF87&fire=FF6BFF&currStreakLabel=FFFFFF) |
+|:---:|:---:|
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Raisa-01&theme=dark&hide_border=true&area=true&bg_color=000000&color=00D4FF&line=00FF87&point=FF6BFF)
+
+</div>
+---
+
+## <div align="center">📶 Code Frequency</div>
+
+<div align="center">
+
+```python
+Dart        ██████████████████████████████ 85.2% 
+JavaScript  █████████████▍                18.3% 
+HTML        ███████▌                     7.5% 
+CSS         █████▎                       4.1% 
+Other       █                            0.9%
+```
+
+</div>
 
 ---
 
-## 📈 GitHub Stats
+## <div align="center">📡 Communication Array</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raisa-01&show_icons=true&theme=radical" alt="Afia's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raisa-01&theme=radical" alt="Afia's GitHub streak" />
-</p>
+<div align="center">
 
----
+[![Quantum Mail](https://img.shields.io/badge/QUANTUM_MAIL-00D4FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afia.raisa876@gmail.com)
+[![Code Repository](https://img.shields.io/badge/CODE_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raisa-01)
+[![Professional Network](https://img.shields.io/badge/PRO_NETWORK-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 
-## 🌱 Currently Learning
-
-- 🔧 Backend development with **Node.js** and **Express**
-- 🗃️ Database integration using **SQLite**
-- 🔐 Authentication systems for mobile and web apps
+</div>
 
 ---
 
-## 📫 Connect with Me
+<div align="center">
 
-<p align="left">
-  <a href="https://github.com/afia-raisa" target="_blank"><img src="https://img.shields.io/badge/GitHub-Raisa--01-181717?style=for-the-badge&logo=github" /></a>
-  <a href="mailto:afia.raisa876@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
-</p>
+![System Status](https://img.shields.io/badge/SYSTEM_STATUS-ONLINE-00FF00?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/LAST_UPDATE-REALTIME-00D4FF?style=for-the-badge)
+![Mission Status](https://img.shields.io/badge/MISSION-ACTIVE-FF6BFF?style=for-the-badge)
 
----
+**"The future belongs to those who believe in the beauty of their dreams"**
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
-</p>
-
-<p align="center">
-  <b>🌍 Internet Native | 📚 Always Curious | 💡 Building for Impact</b>
-</p>
+</div>
